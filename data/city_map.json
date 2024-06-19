@@ -1,0 +1,9 @@
+{
+    "nodes": ["A", "B", "C"],
+    "edges": [
+      {"from": "A", "to": "B", "distance": 5},
+      {"from": "A", "to": "C", "distance": 10},
+      {"from": "B", "to": "C", "distance": 3}
+    ]
+  }
+  

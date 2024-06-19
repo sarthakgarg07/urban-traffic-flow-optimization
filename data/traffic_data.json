@@ -1,0 +1,6 @@
+[
+    {"from": "A", "to": "B", "travel_time": 7},
+    {"from": "A", "to": "C", "travel_time": 12},
+    {"from": "B", "to": "C", "travel_time": 4}
+  ]
+  
